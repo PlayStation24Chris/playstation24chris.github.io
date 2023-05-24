@@ -1,0 +1,26 @@
+.cards-grid
+{
+    width: 100vw;
+    height: 80%;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+}
+
+.card
+{
+    margin: auto;
+    width: 150px;
+    height: 80px;
+    background: var(--yellow);
+    border-radius: 3px;
+    text-align: center;
+    font-weight: bold;
+}
+
+@media (max-aspect-ratio: 1/1)
+{
+    .cards-grid
+    {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}

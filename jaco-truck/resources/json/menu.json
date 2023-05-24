@@ -1,0 +1,84 @@
+{
+    "cards": [
+        {
+            "item": "Beef Jaco",
+            "price": 2,
+            "section": "Main"
+        },
+        {
+            "item": "Chicken Jaco",
+            "price": 2,
+            "section": "Main"
+        },
+        {
+            "item": "Fish Jaco",
+            "price": 2,
+            "section": "Main"
+        },
+        {
+            "item": "Vegan Jaco",
+            "price": 3.5,
+            "section": "Main"
+        },
+        {
+            "item": "Fajita",
+            "price": 2,
+            "section": "Main"
+        },
+        {
+            "item": "Bean Burrito",
+            "price": 2,
+            "section": "Main"
+        },
+        {
+            "item": "Torta",
+            "price": 2,
+            "section": "Main"
+        },
+        {
+            "item": "Quesadilla",
+            "price": 2,
+            "section": "Main"
+        },
+        {
+            "item": "Churros",
+            "price": 1.25,
+            "section": "Side"
+        },
+        {
+            "item": "Nachos",
+            "price": 1.25,
+            "section": "Side"
+        },
+        {
+            "item": "Fries",
+            "price": 1.25,
+            "section": "Side"
+        },
+        {
+            "item": "Tortilla Chips",
+            "price": 1.25,
+            "section": "Side"
+        },
+        {
+            "item": "Salsa",
+            "price": 0.5,
+            "section": "Dip"
+        },
+        {
+            "item": "Sour Cream",
+            "price": 0.5,
+            "section": "Dip"
+        },
+        {
+            "item": "Guacamole",
+            "price": 0.5,
+            "section": "Dip"
+        },
+        {
+            "item": "Pico de Gallo",
+            "price": 0.5,
+            "section": "Dip"
+        }
+    ]
+}
